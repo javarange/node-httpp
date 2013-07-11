@@ -22,6 +22,7 @@ LOCAL_C_INCLUDES += \
 	$(LOCAL_PATH)/include \
 	$(LOCAL_PATH)/include/uv-private \
 	$(LOCAL_PATH)/src \
+	$(LOCAL_PATH)/src/UDT4/src/ \
 	$(LOCAL_PATH)/src/ares/config_android
 
 LOCAL_SRC_FILES := \
